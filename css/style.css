@@ -1,0 +1,13 @@
+h1{
+  font-family:impact;
+  font-size: 180px;
+  font-weight: bold;
+  text-align: center;
+  color: #16448e;
+}
+body{
+  background-color: lightblue;
+}
+.container{
+  color: navy;
+}
